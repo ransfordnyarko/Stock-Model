@@ -6,6 +6,6 @@ This project is the api to the stock-predictor-dashboard
 
 In the project directory, you can run:
 
-### `python3 main.py`
+### `python3 app.py`
 
 
